@@ -1,2 +1,2 @@
 # Policy-Grounded-AI-Assistant-for-Enterprise-NLP-RAG-CoT-
-An AI-powered NLP system that classifies customer feedback and generates policy-grounded responses using Retrieval-Augmented Generation (RAG) and Chain-of-Thought prompting.
+An enterprise-focused NLP application that automates customer issue classification and response generation. The system combines traditional ML (TF-IDF + Logistic Regression) and LLM-based classification, Retrieval-Augmented Generation (RAG) for policy grounding, and Chain-of-Thought prompting for complex reasoning. Built with FastAPI and Streamlit, with a feedback loop for continuous improvement.
